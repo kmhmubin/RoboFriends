@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview Image
 
-!(Preview Image)[https://github.com/kmhmubin/RoboFriends/blob/master/Robofriend%20Preview.jpg]
+
+![Preview Image](https://github.com/kmhmubin/RoboFriends/blob/master/Robofriend%20Preview.jpg)
 
 ## Available Scripts
 
