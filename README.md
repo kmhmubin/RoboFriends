@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Preview Image
+
+!(Preview Image)[https://github.com/kmhmubin/RoboFriends/blob/master/Robofriend%20Preview.jpg]
+
 ## Available Scripts
 
 In the project directory, you can run:
